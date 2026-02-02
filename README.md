@@ -1,4 +1,4 @@
-# Driver Drowsiness Detection (MediaPipe Version)
+# Driver Drowsiness Detection 
 
 This project implements a driver drowsiness detection system using **Google MediaPipe** and **OpenCV**. It monitors eye blinking and head posture to detect fatigue and alerts the driver using an alarm.
 
